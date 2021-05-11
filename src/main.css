@@ -1,0 +1,32 @@
+.intro{
+    background-color: azure;
+    color: black;
+    
+}
+.intro h1, h2{
+    width: 50%;
+    margin: 0 auto 0 0
+}
+.intro div, p, table{
+    width: 50%;
+    margin: 0 auto 0 auto
+}
+.main-content{
+}
+.portfolio-section{
+    border: 1px solid;
+    padding: 20px 20px 20px 20px;
+}
+.skills{
+    background-color: darkkhaki;
+    color:indianred;
+}
+.experience{
+    background-color:darkcyan;
+}
+ul li{
+    display: inline-block;
+}
+.intro h2{
+    border-top: 1px solid;
+}
